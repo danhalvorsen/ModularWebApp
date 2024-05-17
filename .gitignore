@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vscode
+/client/out-tsc/src
+/api/DynamicApiWithSwagger/.vs/DynamicApiWithSwagger/FileContentIndex
+/api/DynamicApiWithSwagger/.vscode
+/api/DynamicApiWithSwagger/bin/Debug/net8.0
+/api/DynamicApiWithSwagger/obj
