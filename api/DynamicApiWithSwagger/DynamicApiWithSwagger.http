@@ -1,0 +1,6 @@
+@DynamicApiWithSwagger_HostAddress = http://localhost:5152
+
+GET {{DynamicApiWithSwagger_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
